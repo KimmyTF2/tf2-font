@@ -1,0 +1,19 @@
+<style>
+@font-face {
+  font-family: 'TF2';
+  src: url('https://kimmytf2.github.io/tf2-font/tf2build.woff2') format('woff2'),
+       url('https://kimmytf2.github.io/tf2-font/tf2build.woff') format('woff');
+}
+
+.tf2-text {
+  font-family: 'TF2', sans-serif !important;
+  font-size: 48px;
+  color: #cf6a32;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+</style>
+
+<div class="tf2-text">
+  TEXT HERE
+</div>
